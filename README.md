@@ -1,4 +1,4 @@
-## Clone-ChatGPT
+## Clone-ChatGPT.
 
 ## Descrição:
 
